@@ -7,7 +7,7 @@ The application implements authentication, product listing with filters, and a p
 
 ## 🚀 Live Demo
 
-🔗 **Frontend (React):** [frontend-demo-link](demostore23.netlify.app)  
+🔗 **Frontend (React):** [frontend-demo-link](https://demostore23.netlify.app/)  
 🔗 **Backend (DRF API):** [backend-demo-link](https://ecommerce-backend-5wbp.onrender.com)  
 
 ### Demo Credentials
