@@ -11,8 +11,8 @@ The application implements authentication, product listing with filters, and a p
 🔗 **Backend (DRF API):** [backend-demo-link](https://ecommerce-backend-5wbp.onrender.com)  
 
 ### Demo Credentials
-- **Username:** `dummy`  
-- **Password:** `dummy12345`
+- **Username:** `demo`  
+- **Password:** `demo1234`
 
 ---
 
